@@ -1,3 +1,5 @@
 Step 1: Pick pizza place.
 Step 2: Pick pizza.
-Stop 3: Order pizza.
+Step 3: Order pizza.
+Step 4: Pay for pizza
+Step 5: Enjoy pizza
